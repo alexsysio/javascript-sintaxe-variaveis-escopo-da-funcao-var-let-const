@@ -1,18 +1,9 @@
-### HTML JavaScript | JavaScript Sintaxe Variáveis Escopo da Função
-
-<a href="https://github.com/user-attachments/assets/cfe2fe8c-1040-4874-8cea-1ad160f096c7" >
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/cfe2fe8c-1040-4874-8cea-1ad160f096c7"/>
-</a>
-
-
-&nbsp;
-
 ### Escopo da Função
-### Dentro de uma função, todas as variáveis declaradas com , ou possuem Escopo de Função: var let const
+### Dentro de uma função, todas as variáveis declaradas com var, let, const, ou possuem Escopo de Função: 
 
-&nbsp;
-
-### Exemplo
+<a href="https://github.com/user-attachments/assets/c3c5de1b-11cf-4a78-a5ef-cc1f30c9e620" >
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/c3c5de1b-11cf-4a78-a5ef-cc1f30c9e620"/>
+</a>
 
 &nbsp;
 
