@@ -1,4 +1,4 @@
-### Escopo da Função
+### Escopo da Função var
 ### Dentro de uma função, todas as variáveis declaradas com var, let, const, tem ou possuem Escopo de Função nesse exemplo: 
 ### function myfunction() {
 ###   var x = 1;
