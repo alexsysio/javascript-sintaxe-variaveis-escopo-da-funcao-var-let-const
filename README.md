@@ -1,5 +1,5 @@
 ### Escopo da Função
-### Dentro de uma função, todas as variáveis declaradas com var, let, const, ou possuem Escopo de Função: 
+### Dentro de uma função, todas as variáveis declaradas com var, let, const, tem ou possuem Escopo de Função nesse exmeplo: 
 
 <a href="https://github.com/user-attachments/assets/c3c5de1b-11cf-4a78-a5ef-cc1f30c9e620" >
   <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/c3c5de1b-11cf-4a78-a5ef-cc1f30c9e620"/>
